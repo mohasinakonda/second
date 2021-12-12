@@ -1,12 +1,12 @@
 *{
     margin: 0;
-    background: rgb(39, 168, 158);
+    /* background: rgb(39, 168, 158); */
 }
 
 .container{
     width:50rem;
     height: 25rem;
-    background-color: #ffffff;
+    background-color: #1da79b;
     color:blue;
     border: 2px solid;
 }
