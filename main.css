@@ -2,3 +2,8 @@
     margin: 0;
     background: rgb(39, 168, 158);
 }
+
+.main{
+    width:50rem;
+    background-color: aliceblue;
+}
